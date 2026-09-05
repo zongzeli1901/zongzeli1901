@@ -14,7 +14,7 @@ I’m interested in building practical machine learning systems and turning idea
 Python · PyTorch · Docker · Kubernetes · C/C++ · Git
 
 ## Selected Projects
-- Deep Reinforcement Learning for Atari Space Invaders
+- [Deep Reinforcement Learning for Atari Space Invaders](https://zachlai23.github.io/RLSpaceInvaders/)
 - Bayesian Latent Skill Inference
 - Neural Radiance Fields (NeRF)
 - Robust Visual Recognition on SVHN
