@@ -15,7 +15,7 @@ Python · PyTorch · Docker · Kubernetes · C/C++ · Git
 
 ## Selected Projects
 - [Deep Reinforcement Learning for Atari Space Invaders](https://zachlai23.github.io/RLSpaceInvaders/)
-- Bayesian Latent Skill Inference
+- Bayesian Latent Skill Inference](https://zongzeli1901.github.io/research/bayesian-latent-skill.html)
 - Neural Radiance Fields (NeRF)](https://zongzeli1901.github.io/research/nerf.html)
 - Robust Visual Recognition under Real-World Noise](https://zongzeli1901.github.io/research/robust-visual-recognition.html)
 - Scalable Graph & Algorithm Optimization
